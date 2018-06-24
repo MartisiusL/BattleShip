@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.exe.config
+C:\Users\User\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.exe
+C:\Users\User\source\repos\BattleShips\BattleShips\bin\Debug\BattleShips.pdb
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.Form1.resources
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.Properties.Resources.resources
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.exe
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.pdb
+C:\Users\User\source\repos\BattleShips\BattleShips\obj\Debug\BattleShips.ShipSetter.resources
